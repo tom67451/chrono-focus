@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[Click Here](#) 
+[Click Here](https://tom67451.github.io/chrono-focus/) 
 
 ## Features
 
