@@ -1,4 +1,4 @@
-# ⏳ ChronoFocus - Pomodor Clock App
+# ⏳ ChronoFocus - Pomodor Timer App
 
 **ChronoFocus** is a customizable Pomodoro Timer designed to help you stay focused and boost your productivity using the Pomodoro Technique. This app comes with break sessions, task management, achievements, customizable settings, productivity statistics (powered by Chart.js), and background music support.
 
