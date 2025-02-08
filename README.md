@@ -19,13 +19,12 @@
 
 ## Screenshots
 
-*Add your screenshots here, for example:*
+![image](https://github.com/user-attachments/assets/0816f475-5b5a-4f2a-bd15-5ed68608e8d1)
 
-![Pomodoro Timer Screenshot](screenshot1.png)  
-*Pomodoro Timer with Tasks*
+![image](https://github.com/user-attachments/assets/4e4585d7-7930-48cc-8a3d-ad4a86748f14)
 
-![Statistics Screenshot](screenshot2.png)  
-*Productivity Statistics using Chart.js*
+![image](https://github.com/user-attachments/assets/1e3a04da-0048-40c9-8aaa-f03c4f3165a4)
+
 
 ## Tech Stacks
 
